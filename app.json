@@ -1,0 +1,17 @@
+{
+  "name": "StarwarsLegionHelper",
+  "displayName": "StarwarsLegionHelper",
+  "expo": {
+    "name": "StarwarsLegionHelper",
+    "slug": "StarwarsLegionHelper",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
